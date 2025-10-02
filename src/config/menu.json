@@ -1,0 +1,26 @@
+{
+  "main": [
+    {
+      "name": "Home",
+      "url": "/CHI2024"
+    },
+    {
+      "name": "Resources",
+      "url": "/CHI2024/resources"
+    },
+    {
+      "name": "Contact",
+      "url": "/CHI2024/contact"
+    }
+  ],
+  "footer": [
+    {
+      "name": "Resources",
+      "url": "/CHI2024/resources"
+    },
+    {
+      "name": "Contact",
+      "url": "/CHI2024/contact"
+    }
+  ]
+}

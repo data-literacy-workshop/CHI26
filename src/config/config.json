@@ -1,0 +1,35 @@
+{
+  "site": {
+    "title": "Workshop: Toward a More Comprehensive Understanding of Visualization Literacy @CHI24",
+    "base_url": "https://visualization-literacy.github.io",
+    "base_path": "/CHI2024",
+    "trailing_slash": false,
+    "favicon": "/CHI2024/images/authors/literacy-icon.png",
+    "logo": "/CHI2024/images/authors/literacy-icon.png",
+    "logo_width": "100",
+    "logo_height": "100",
+    "logo_text": "Literacy Workshop"
+  },
+
+  "settings": {
+    "pagination": 5,
+    "summary_length": 100
+  },
+
+  "metadata": {
+    "meta_author": "visualization literacy workshop organizers",
+    "meta_image": "/images/og-image.png",
+    "meta_description": "Toward a More Comprehensive Understanding of Visualization Literacy @CHI24"
+  },
+
+  "params": {
+    "contact_form_action": "#",
+    "copyright": "Toward a More Comprehensive Understanding of Visualization Literacy © 2024"
+  },
+
+  "contactinfo": {
+    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "email": "visualizationliteracy[at]gmail.com",
+    "phone": "+800 567 1234"
+  }
+}
